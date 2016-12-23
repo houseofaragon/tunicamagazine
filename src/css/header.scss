@@ -1,0 +1,26 @@
+.header {
+  display: inline-block;
+  text-indent: none;
+  width: 100vw;
+  padding: 20px 0;
+  & div {
+    display: inline-block;
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+  }
+}
+
+.header div#cart{ width: 20vw;}
+.header div#menu-1{ width: 20vw;  }
+.header div#logo{ width: 40vw; }
+.header div#menu-2{ width: 20vw;  }
+
+.header div ul {
+  list-style: none;
+}
+ 
+.header div ul li {
+  text-indent: center;
+}

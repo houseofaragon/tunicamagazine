@@ -1,1 +1,7 @@
-export const ADD_PERSON = 'ADD_PERSON';
+export const SET_CONTENT = 'SET_CONTENT';
+export const SET_POST = 'SET_POST';
+export const SET_STUDIO_PAGE = 'SET_STUDIO_PAGE';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const SET_PRODUCT = 'SET_PRODUCT';
+export const SET_SEARCH_RESULTS = 'SET_SEARCH_RESULTS';
+export const SET_CATEGORIES = 'SET_CATEGORIES';
